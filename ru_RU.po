@@ -56,7 +56,7 @@ msgstr "Дизайн от "
 
 #: ../search.php:10
 msgid "For the term"
-msgstr "На срок"
+msgstr "По запросу"
 
 #: ../search.php:12
 msgid "Please try another search:"
